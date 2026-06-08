@@ -1,0 +1,8 @@
+.idea
+mage1.bat
+mage2.bat
+Magento2/TestCron.php
+conf.php
+packager.php
+extension/
+*.iml
